@@ -34,4 +34,4 @@ L'interface web intégrée utilise du JavaScript asynchrone (Fetch API) pour act
 
 1. Cloner ce dépôt :
    ```bash
-   git clone [https://github.com/VOTRE_PSEUDO/esp32-weather-station-ap.git](https://github.com/VOTRE_PSEUDO/esp32-weather-station-ap.git)
+   git clone [https://github.com/AmineHajSaleh/esp32-weather-station-ap.git](https://github.com/AmineHajSaleh/esp32-weather-station-ap.git)
