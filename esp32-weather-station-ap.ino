@@ -6,8 +6,8 @@
 
 Adafruit_BME280 bme;
 
-const char* ssid     = "ESP32-AP_amine";
-const char* password = "al3ablibihmarra";
+const char* ssid = "VOTRE_WIFI_SSID";
+const char* password = "VOTRE_WIFI_PASSWORD";
 
 const int oneWireBus = 13;   // DS18B20 on GPIO13
 
