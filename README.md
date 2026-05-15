@@ -28,7 +28,7 @@ L'interface web intégrée utilise du JavaScript asynchrone (Fetch API) pour act
 * `SDA` ➔ `GPIO 21`
 * `SCL` ➔ `GPIO 22`
 ## 🔌 Schéma Électrique
-![Schéma de câblage Fritzing/Wokwi]()
+![Schéma de câblage Fritzing/Wokwi](https://github.com/AmineHajSaleh/esp32-weather-station-ap/blob/main/Screenshot%202026-05-15%20113403.png)
 
 ## 🚀 Installation et Configuration
 
